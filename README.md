@@ -1,7 +1,5 @@
 # SOLAR SYSTEM
-This project is meant as a source of recreation where one can sit in front of the computer and have the vision of the planets in space.
-The use of technology in education can be implemented with a visualization on a subject of study. The study 
-of the solar system for example, by using the visualization of objects in the solar system would facilitate teachers 
+The study of the solar system for example, by using the visualization of objects in the solar system would facilitate teachers 
 for the delivery of content. However, the problem is how to implement a visual method of learning about the 
 Solar System. How to know the relative speeds of each planets which determines the time taken by the planets 
 to complete one revolution around the Sun. How to determine the relative positions and distances of each planet 
@@ -26,3 +24,5 @@ To show the implementation of stars twinkling.
 
 # Software
 Implemented in Microsoft Visual Studio C/C++ using OpenGL
+
+# Snapshots
