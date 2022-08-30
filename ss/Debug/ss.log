@@ -1,0 +1,62 @@
+﻿  SolarSystem.cpp
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(28,38): warning C4838: conversion from 'float' to 'GLint' requires a narrowing conversion
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(29,40): warning C4838: conversion from 'float' to 'GLint' requires a narrowing conversion
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(78,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(78,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(78,10): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(78,10): message : this argument is used as a buffer size
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(136,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(141,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(146,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(151,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(156,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(161,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(167,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(172,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(177,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(489,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(495,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(500,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(505,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(510,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(535,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(541,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(546,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(551,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(556,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(582,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(588,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(593,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(598,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(603,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(628,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(634,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(639,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(644,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(649,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(674,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(680,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(685,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(690,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(695,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(721,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(727,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(732,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(737,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(742,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(767,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(773,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(778,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(783,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(788,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(813,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(819,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(824,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(829,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(834,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(858,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(864,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(869,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(874,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ramya Chitte\Downloads\solar-system-opengl-master\solar-system-opengl-master\SolarSystem.cpp(879,20): warning C4018: '<': signed/unsigned mismatch
+  ss.vcxproj -> C:\Users\Ramya Chitte\Desktop\ss\Debug\ss.exe

@@ -1,0 +1,95 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource1.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (United States) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource1.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BITMAP1             BITMAP                  "C:\\Users\\Ramya Chitte\\source\\repos\\solar-system-opengl\\Bitmaps\\earthmap.bmp"
+
+IDB_BITMAP2             BITMAP                  "C:\\Users\\Ramya Chitte\\source\\repos\\solar-system-opengl\\Bitmaps\\jupitermap.bmp"
+
+IDB_BITMAP3             BITMAP                  "C:\\Users\\Ramya Chitte\\source\\repos\\solar-system-opengl\\Bitmaps\\marsmap.bmp"
+
+IDB_BITMAP4             BITMAP                  "C:\\Users\\Ramya Chitte\\source\\repos\\solar-system-opengl\\Bitmaps\\mercurymap.bmp"
+
+IDB_BITMAP5             BITMAP                  "C:\\Users\\Ramya Chitte\\source\\repos\\solar-system-opengl\\Bitmaps\\moonmap.bmp"
+
+IDB_BITMAP6             BITMAP                  "C:\\Users\\Ramya Chitte\\source\\repos\\solar-system-opengl\\Bitmaps\\nasalogo.bmp"
+
+IDB_BITMAP7             BITMAP                  "C:\\Users\\Ramya Chitte\\source\\repos\\solar-system-opengl\\Bitmaps\\neptunemap.bmp"
+
+IDB_BITMAP8             BITMAP                  "C:\\Users\\Ramya Chitte\\source\\repos\\solar-system-opengl\\Bitmaps\\Particle.bmp"
+
+IDB_BITMAP9             BITMAP                  "C:\\Users\\Ramya Chitte\\source\\repos\\solar-system-opengl\\Bitmaps\\plutomap.bmp"
+
+IDB_BITMAP10            BITMAP                  "C:\\Users\\Ramya Chitte\\source\\repos\\solar-system-opengl\\Bitmaps\\saturnmap.bmp"
+
+IDB_BITMAP11            BITMAP                  "C:\\Users\\Ramya Chitte\\source\\repos\\solar-system-opengl\\Bitmaps\\saturnringmap.bmp"
+
+IDB_BITMAP12            BITMAP                  "C:\\Users\\Ramya Chitte\\source\\repos\\solar-system-opengl\\Bitmaps\\sunmap.bmp"
+
+IDB_BITMAP13            BITMAP                  "C:\\Users\\Ramya Chitte\\source\\repos\\solar-system-opengl\\Bitmaps\\uranusmap.bmp"
+
+IDB_BITMAP14            BITMAP                  "C:\\Users\\Ramya Chitte\\source\\repos\\solar-system-opengl\\Bitmaps\\venusmap.bmp"
+
+#endif    // English (United States) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
