@@ -26,3 +26,8 @@ To show the implementation of stars twinkling.
 Implemented in Microsoft Visual Studio C/C++ using OpenGL
 
 # Snapshots
+![ss1](https://user-images.githubusercontent.com/87988971/187450742-2a8f4513-2d6a-4e9a-8dcf-88f9e5e86e87.jpg)
+![ss2](https://user-images.githubusercontent.com/87988971/187450798-fa966ec7-83ab-4dc8-9163-5fdff415a117.jpg)
+![ss3](https://user-images.githubusercontent.com/87988971/187450803-ee42fa72-e619-40c9-93bd-76737c6d8224.jpg)
+![ss4](https://user-images.githubusercontent.com/87988971/187450807-d4409ae7-667b-4f80-902c-c5272e6975fa.jpg)
+![ss5](https://user-images.githubusercontent.com/87988971/187450809-dc8d7762-d901-4505-a35b-c04a948fd57f.jpg)
